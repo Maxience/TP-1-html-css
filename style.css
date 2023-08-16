@@ -1,0 +1,135 @@
+                            /* EN-TETE */
+body{
+   width: 1500px;
+   margin-top: -10px;
+   margin-left: 100px;
+}
+.entete{
+   display: flex;
+   
+}
+.entete img{
+   
+}
+.entete ul{
+    margin-left: 700px;
+    display: flex;
+    padding-top: 25px;
+}
+.entete li{
+   list-style-type: none;
+   margin-left: 50px;
+    padding-bottom: -50px;
+}
+a{
+   text-decoration: none; 
+   color: black;
+}
+                            /* HAUT DE BODY */
+                            
+.haut-de-body{
+    
+}
+.haut-de-body-img{
+    position: absolute;
+    width: 1300px;
+    height: 600px;
+}
+
+.haut-de-body-a{
+   position: absolute;
+   left: 650px;
+   top: 310px;
+}
+.haut-de-body-h2{
+   position: absolute;
+   left: 700px;
+   top: 420px;
+   color: white;
+   font-size: 1.8em;
+}
+                                        /* SECTION */
+section{
+   margin-top: 650px;
+}
+.section-1-p{
+   width: 800px;
+   font-size: 1.6em;
+   text-align: center;
+   margin-left: 300px;
+   color: rgb(114, 113, 113)
+}
+.en-colums {
+    margin-top: 60px;
+    width: 900px;
+   display: flex;
+   margin-left: 230px;
+}
+.en-colums img {
+    margin-left: 60px;
+}
+.en-colums h2{
+ 
+}
+.en-colums-1 img, .en-colums-2 img {
+    margin-left: 100px;
+}
+.en-colums-1 h2, .en-colums-2 h2{
+    margin-left: 60px;
+}
+.en-colums div{
+    padding-left: 20px;
+}
+.en-colums p{
+   text-align: center; 
+}
+
+
+.section-2-p{
+    width: 540px;
+    font-size: 1.3em;
+    text-align: center;
+    margin-top: 60px;
+    margin-left: 400px;
+}
+.fin-section{
+    margin-left: 580px;
+    color: rgb(106, 105, 105)
+}
+ 
+                                         /* FOOTER */
+
+footer{
+    width: 1300px;
+   background-color: #5b359d;
+}
+footer p,li,h3{
+  color: white;
+}
+.footer-p{
+    font-size: 1.2em;
+    padding-top: 20px;
+    margin-left: 450px;
+}
+
+.footer-img{
+    margin-left: 550px;
+}
+footer img{
+    width: 40px;
+    margin: 0 20px;
+    
+}
+
+.footer-info{
+   display: flex;
+   justify-content: space-around;
+   
+}
+.footer-info h3{
+    color: rgb(197, 194, 194)
+}
+.footer-info li{
+    
+}
+
